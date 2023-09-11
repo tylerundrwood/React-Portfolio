@@ -59,19 +59,19 @@ export const info = {
                 title: "FoodSmart",
                 live: "https://dtm589.github.io/FoodSmart/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
                 source: "https://github.com/dtm589/FoodSmart", // this should be a link to the **repository** of the project, where the code is hosted.
-                image: mock1
+                image: Foodsmart.png
             },
             {
                 title: "QR Empire",
                 live: "https://qrempire-7ee960eb8dee.herokuapp.com/",
                 source: "https://github.com/WillZealot/QR_Empire",
-                image: mock2
+                image: QREmpire.png
             },
             {
                 title: "Password Generator",
                 live: "https://tylerundrwood.github.io/Password-Generator/",
                 source: "https://github.com/tylerundrwood/Password-Generator",
-                image: mock3
+                image: PasswordGen.png
             }
         ]
     }
